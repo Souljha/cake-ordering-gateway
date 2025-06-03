@@ -1,0 +1,28 @@
+# Cake A Day Price List
+
+## Cakes
+- Chocolate Cake: R250-R500 (depending on size)
+- Vanilla Cake: R220-R450 (depending on size)
+- Red Velvet Cake: R280-R550 (depending on size)
+- Carrot Cake: R260-R520 (depending on size)
+- Gold & Black Cake: Custom pricing
+- Custom Number Cake: Custom pricing
+
+## Cupcakes
+- Vanilla Cupcakes: R25 each
+- Chocolate Cupcakes: R25 each
+- Red Velvet Cupcakes: R30 each
+- Burger Muffins: R90.00
+- Black & Gold Cupcakes: R35 each
+
+## Other Products
+- Baklava pieces: R360.00
+- Waffles: R40.00
+- Tarts: R35-R45 each
+- Pies: R180-R220
+- Loaves: R120-R150
+
+## Services
+- Local Delivery: R50 (within 20km radius)
+- Same-day Delivery: Available for orders placed before 10am (subject to availability)
+- Collection: Free from our store during business hours
