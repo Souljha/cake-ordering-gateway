@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  stripe-api:
+    build:
+      context: ./stripe-api
+    ports:
+      - "3001:3001"
+    environment:
+      - STRIPE_SECRET_KEY=${STRIPE_SECRET_KEY}
+      - STRIPE_WEBHOOK_SECRET=${STRIPE_WEBHOOK_SECRET}
+    volumes:
+      - ./stripe-api:/app
+    restart: unless-stopped
