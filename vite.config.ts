@@ -8,6 +8,7 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, process.cwd(), '');
 
   return {
+    base: '/cake-ordering-gateway/',
     define: {
       'process.env': {
         VITE_SUPABASE_URL: env.VITE_SUPABASE_URL,
