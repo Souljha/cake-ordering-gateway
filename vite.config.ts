@@ -8,7 +8,6 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, process.cwd(), '');
 
   return {
-    base: '/cake-ordering-gateway/',
     define: {
       'process.env': {
         VITE_SUPABASE_URL: env.VITE_SUPABASE_URL,
@@ -48,5 +47,12 @@ export default defineConfig(({ mode }) => {
     optimizeDeps: {
       include: ['@xenova/transformers'], // Optimize the transformers library
     },
+
+    base: '/cake-ordering-gateway/', // Match your GitHub repository name exactly
+    build: {
+    outDir: 'dist',
+    assetsDir: 'assets',
+    emptyOutDir: true,
+  }
   };
 });

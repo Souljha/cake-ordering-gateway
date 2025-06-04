@@ -7,8 +7,8 @@
   "scripts": {
     "setup-knowledge": "tsx scripts/setup-knowledge.js",
     "start": "node server.js",
-    "dev": "npx nodemon --watch . --ext ts --exec \"tsx server.ts\"",
-    "build": "vite build",
+    "dev": "npx nodemon --watch . --ext ts --exec \"tsx server.ts\" vite",
+    "build": "tsc && vite build",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build",
     "build:dev": "vite build --mode development",
