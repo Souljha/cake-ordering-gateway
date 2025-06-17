@@ -2,3 +2,5 @@ public/models/distilgpt2/model.onnx
 node_modules/
 .git/lfs/objects/
 .env
+# Ignore credentials directory and all its contents
+credentials/
