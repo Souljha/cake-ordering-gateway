@@ -1,0 +1,6 @@
+public/models/distilgpt2/model.onnx
+node_modules/
+.git/lfs/objects/
+/credentials/
+*.json
+.env

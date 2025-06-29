@@ -1,0 +1,23 @@
+# Cake A Day Product Information
+
+## Cakes
+- Chocolate Cake: Rich chocolate cake with chocolate ganache. Available in various sizes. Price: R250-R500
+- Vanilla Cake: Light and fluffy vanilla cake with buttercream frosting. Available in various sizes. Price: R220-R450
+- Red Velvet Cake: Classic red velvet with cream cheese frosting. Available in various sizes. Price: R280-R550
+- Carrot Cake: Moist carrot cake with cream cheese frosting and walnut pieces. Price: R260-R520
+- Gold & Black Cake: Elegant gold and black number cake for milestone birthdays with luxurious decorations. Custom pricing.
+- Custom Number Cake: Shaped cake in any number you need for birthdays or anniversaries. Custom pricing.
+
+## Cupcakes
+- Vanilla Cupcakes: Classic vanilla cupcakes with buttercream frosting. Price: R25 each
+- Chocolate Cupcakes: Rich chocolate cupcakes with chocolate frosting. Price: R25 each
+- Red Velvet Cupcakes: Red velvet cupcakes with cream cheese frosting. Price: R30 each
+- Burger Muffins: Kiddie burger muffins for those special days to enjoy with friends and family. Price: R90.00
+- Black & Gold Cupcakes: Elegant black cupcakes with gold star decorations. Price: R35 each
+
+## Other Products
+- Baklava pieces: Combines layers of honey-soaked crisp phyllo pastry and a cinnamon-scented nut filling. Price: R360.00
+- Waffles: These waffles are crisp, golden, light, and fluffy. Perfect for a delicious breakfast. Price: R40.00
+- Tarts: Various fruit and custard tarts. Price: R35-R45 each
+- Pies: Selection of sweet and savory pies. Price: R180-R220
+- Loaves: Banana bread, lemon loaf, and other tea loaves. Price: R120-R150

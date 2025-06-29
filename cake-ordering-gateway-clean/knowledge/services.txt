@@ -1,0 +1,16 @@
+# Cake A Day Services
+
+## Custom Orders
+- Custom Cake Design: Work with our designers to create your dream cake for any occasion
+- Corporate Orders: Special pricing and delivery for large corporate events
+- Wedding Cakes: Consultation and tasting sessions available for wedding cake selection
+
+## Delivery Information
+- Local Delivery: Available within 20km radius of our store for R50
+- Same-day Delivery: Order before 10am for same-day delivery (subject to availability)
+- Collection: Free collection from our store during business hours
+
+## Store Information
+- Opening Hours: Monday-Friday 8am-6pm, Saturday 8am-4pm, Sunday 9am-2pm
+- Location: 123 Cake Street, Bakery District
+- Contact: 555-CAKE-DAY or info@cakeaday.com
